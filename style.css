@@ -34,3 +34,8 @@ th {
 p {
 	border: 10px outset #aaaaaa;
 }
+
+h1 {
+	font-size: 32pt;
+	font-family: times new roman;
+}
