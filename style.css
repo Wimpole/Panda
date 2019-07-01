@@ -5,6 +5,7 @@ body {
 	width: 450px;
 	margin-top: 25px;
 	margin-bottom: 50px;
+	background-color: #fafa9b;
 }
 
 img {
@@ -62,4 +63,25 @@ h2 {
 
 .overlay-image:hover .hover {
 	opacity: 1;
+}
+
+#mainCol {
+	margin: auto;
+	width: 450px;
+	background-color: #ffffff;
+	border-left: 20px solid #ff82a8;
+	border-right: 20px solid #ff82a8;
+
+}
+
+#mainHeader {
+	background-color: #e3b8ff;
+	margin: 0px;
+	padding: 40px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+#content {
+	padding: 40px;
 }
