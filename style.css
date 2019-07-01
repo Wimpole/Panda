@@ -5,6 +5,8 @@ body {
 	width: 450px;
 	margin-top: 25px;
 	margin-bottom: 50px;
+	border: 10px dotted #a0a0a0;
+	padding: 10px;
 }
 
 img {
