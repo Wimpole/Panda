@@ -31,13 +31,13 @@ th {
 h1 {
 	font-size: 32pt;
 	font-family: times new roman;
-	text-shadow: 0px 0px 20px #99ff00;
-	color: #457301;
+	text-shadow: 0px 0px 20px #101010;
+	color: #000000;
 }
 
 h2 {
-	text-shadow: 0px 0px 10px #99ff00;
-	color: #457301;
+	text-shadow: 0px 0px 10px #101010;
+	color: #000000;
 }
 
 .overlay-image {
