@@ -2,7 +2,7 @@ body {
 	font-family: arial, verdana;
 	font-size: 8pt;
 	width: 450px;
-	background-color: #fafa9b;
+	background-color: #404E4D;
 	margin: auto;
 }
 
@@ -66,14 +66,14 @@ h2 {
 #mainCol {
 	margin: auto;
 	width: 450px;
-	background-color: #ffffff;
-	border-left: 20px solid #ff82a8;
-	border-right: 20px solid #ff82a8;
+	background-color: #6CD4FF;
+	border-left: 20px solid #646881;
+	border-right: 20px solid #646881;
 
 }
 
 #mainHeader {
-	background-color: #e3b8ff;
+	background-color: #646881;
 	margin: 0px;
 	padding: 40px;
 	padding-top: 2px;
@@ -85,6 +85,6 @@ h2 {
 }
 
 p {
-	background-color: #64d99c;
+	background-color: white;
 	padding: 2px;
 }
