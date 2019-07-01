@@ -40,3 +40,26 @@ h2 {
 	text-shadow: 0px 0px 10px #99ff00;
 	color: #457301;
 }
+
+.overlay-image {
+ position: relative;
+ width: 100%;
+}
+
+.overlay-image .image {
+ display: block;
+ width: 100%;
+ height: auto;
+}
+
+.overlay-image .hover {
+ width: 100%;
+ position: absolute;
+ top: 0;
+ opacity: 0;
+ transition: .5s ease;
+}
+
+.overlay-image:hover .hover {
+	opacity: 1;
+}
