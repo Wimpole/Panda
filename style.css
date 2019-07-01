@@ -30,3 +30,7 @@ th {
 	border: 1px solid #a2a9b1;
 	background-color: #cccccc;
 }
+
+p {
+	border: 10px outset #aaaaaa;
+}
