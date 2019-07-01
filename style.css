@@ -37,4 +37,7 @@ h1 {
 	width: 450px;
 	padding: 40px;
 	background-color: #ffffff;
+	border-left: 20px solid #ff82a8;
+	border-right: 20px solid #ff82a8;
+
 }
