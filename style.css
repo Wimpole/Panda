@@ -35,9 +35,21 @@ h1 {
 #mainCol {
 	margin: auto;
 	width: 450px;
-	padding: 40px;
 	background-color: #ffffff;
 	border-left: 20px solid #ff82a8;
 	border-right: 20px solid #ff82a8;
+
+}
+
+#mainHeader {
+	background-color: #e3b8ff;
+	margin: 0px;
+	padding: 40px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+#content {
+	padding: 40px;
 
 }
